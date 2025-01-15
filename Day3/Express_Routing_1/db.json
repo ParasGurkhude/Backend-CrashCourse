@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Monkey D. Luffy",
+      "email": "luffy@123.com"
+    },
+    {
+      "id": 4,
+      "name": "Roronoa Zoro",
+      "email": "roronoazoro@123.com"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Clean the hotel",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Finish project",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "userID": 3,
+      "title": "Watched movie",
+      "completed": false
+    }
+  ]
+}
